@@ -8,6 +8,7 @@ html {
     justify-content: center;
     align-items: center;
     background: #EEE;
+    font-family: Century Gothic, sans-serif;
   }
   .flip-clock {
     text-align: center;
